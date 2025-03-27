@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gp1203test/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/gp1203test/static/js/main.b46b5bb6.chunk.js",
-    "main.js.map": "/gp1203test/static/js/main.b46b5bb6.chunk.js.map",
+    "main.js": "/gp1203test/static/js/main.dc4ad822.chunk.js",
+    "main.js.map": "/gp1203test/static/js/main.dc4ad822.chunk.js.map",
     "runtime~main.js": "/gp1203test/static/js/runtime~main.37803e98.js",
     "runtime~main.js.map": "/gp1203test/static/js/runtime~main.37803e98.js.map",
     "static/js/2.a7f37d0f.chunk.js": "/gp1203test/static/js/2.a7f37d0f.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.ba8b7f13.chunk.js": "/gp1203test/static/js/3.ba8b7f13.chunk.js",
     "static/js/3.ba8b7f13.chunk.js.map": "/gp1203test/static/js/3.ba8b7f13.chunk.js.map",
     "index.html": "/gp1203test/index.html",
-    "precache-manifest.2ee5139f9dc8b2176c16ef060a944505.js": "/gp1203test/precache-manifest.2ee5139f9dc8b2176c16ef060a944505.js",
+    "precache-manifest.69fc832896bf619c5b7c3b17ab5cecb1.js": "/gp1203test/precache-manifest.69fc832896bf619c5b7c3b17ab5cecb1.js",
     "service-worker.js": "/gp1203test/service-worker.js",
     "static/css/main.435d5fe5.chunk.css.map": "/gp1203test/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/gp1203test/static/media/logo.06e73328.svg"
+    "static/media/TPD_logo.png": "/gp1203test/static/media/TPD_logo.61958cc2.png"
   }
 }
