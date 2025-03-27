@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gp1203test/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/gp1203test/static/js/main.dc4ad822.chunk.js",
-    "main.js.map": "/gp1203test/static/js/main.dc4ad822.chunk.js.map",
-    "runtime~main.js": "/gp1203test/static/js/runtime~main.37803e98.js",
-    "runtime~main.js.map": "/gp1203test/static/js/runtime~main.37803e98.js.map",
-    "static/js/2.a7f37d0f.chunk.js": "/gp1203test/static/js/2.a7f37d0f.chunk.js",
-    "static/js/2.a7f37d0f.chunk.js.map": "/gp1203test/static/js/2.a7f37d0f.chunk.js.map",
-    "static/js/3.ba8b7f13.chunk.js": "/gp1203test/static/js/3.ba8b7f13.chunk.js",
-    "static/js/3.ba8b7f13.chunk.js.map": "/gp1203test/static/js/3.ba8b7f13.chunk.js.map",
+    "main.css": "/gp1203test/static/css/main.a957311d.css",
+    "main.js": "/gp1203test/static/js/main.649c4685.js",
+    "static/js/453.ed3810f9.chunk.js": "/gp1203test/static/js/453.ed3810f9.chunk.js",
+    "static/media/map.png": "/gp1203test/static/media/map.9bb0ce5d647a747f8096.png",
+    "static/media/GoAllons.png": "/gp1203test/static/media/GoAllons.7324ef54b9ca829613c0.png",
+    "static/media/eurostile.TTF": "/gp1203test/static/media/eurostile.5c0b25e4fd3c37eb2d7d.TTF",
     "index.html": "/gp1203test/index.html",
-    "precache-manifest.69fc832896bf619c5b7c3b17ab5cecb1.js": "/gp1203test/precache-manifest.69fc832896bf619c5b7c3b17ab5cecb1.js",
-    "service-worker.js": "/gp1203test/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/gp1203test/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/TPD_logo.png": "/gp1203test/static/media/TPD_logo.61958cc2.png"
-  }
+    "main.a957311d.css.map": "/gp1203test/static/css/main.a957311d.css.map",
+    "main.649c4685.js.map": "/gp1203test/static/js/main.649c4685.js.map",
+    "453.ed3810f9.chunk.js.map": "/gp1203test/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a957311d.css",
+    "static/js/main.649c4685.js"
+  ]
 }
