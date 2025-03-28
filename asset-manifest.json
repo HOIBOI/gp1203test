@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/gp1203test/static/css/main.5cdfd08c.css",
-    "main.js": "/gp1203test/static/js/main.940fad4a.js",
+    "main.css": "/gp1203test/static/css/main.1137bad3.css",
+    "main.js": "/gp1203test/static/js/main.92439fe5.js",
     "static/js/453.ed3810f9.chunk.js": "/gp1203test/static/js/453.ed3810f9.chunk.js",
     "static/media/map.png": "/gp1203test/static/media/map.9bb0ce5d647a747f8096.png",
     "static/media/GoAllons.png": "/gp1203test/static/media/GoAllons.7324ef54b9ca829613c0.png",
     "static/media/eurostile.TTF": "/gp1203test/static/media/eurostile.5c0b25e4fd3c37eb2d7d.TTF",
     "index.html": "/gp1203test/index.html",
-    "main.5cdfd08c.css.map": "/gp1203test/static/css/main.5cdfd08c.css.map",
-    "main.940fad4a.js.map": "/gp1203test/static/js/main.940fad4a.js.map",
+    "static/media/cross.ico": "/gp1203test/static/media/cross.48b3858dc1d8974f30e4.ico",
+    "main.1137bad3.css.map": "/gp1203test/static/css/main.1137bad3.css.map",
+    "main.92439fe5.js.map": "/gp1203test/static/js/main.92439fe5.js.map",
     "453.ed3810f9.chunk.js.map": "/gp1203test/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cdfd08c.css",
-    "static/js/main.940fad4a.js"
+    "static/css/main.1137bad3.css",
+    "static/js/main.92439fe5.js"
   ]
 }
